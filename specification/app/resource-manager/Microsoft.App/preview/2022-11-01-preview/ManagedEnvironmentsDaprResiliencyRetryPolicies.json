@@ -55,9 +55,6 @@
           }
         },
         "x-ms-examples": {
-          "List Dapr Components": {
-            "$ref": "./examples/DaprResiliencyRetryPolicies_List.json"
-          }
         },
         "x-ms-pageable": {
           "nextLinkName": "nextLink"
@@ -219,9 +216,6 @@
           }
         },
         "x-ms-examples": {
-          "Delete dapr component": {
-            "$ref": "./examples/DaprResiliencyRetryPolicies_Delete.json"
-          }
         },
         "x-ms-long-running-operation": false
       }
