@@ -88,7 +88,7 @@
           {
             "name": "policyName",
             "in": "path",
-            "description": "Name of the Dapr Policy.",
+            "description": "Name of the Dapr resiliency retry policy.",
             "required": true,
             "type": "string"
           },
@@ -137,7 +137,7 @@
           {
             "name": "policyName",
             "in": "path",
-            "description": "Name of the Dapr Policy.",
+            "description": "Name of the Dapr resiliency retry policy.",
             "required": true,
             "type": "string"
           },
